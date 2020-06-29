@@ -1,3 +1,6 @@
+# Script related to the paper .....
+See .... for a preprint of the paper
+
 # Network-model-of-the-COVID-19
 Network model of the COVID-19 epidemic in Italy to design and investigate regional containment and mitigation strategies
 
